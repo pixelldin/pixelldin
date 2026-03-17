@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://dineshdi.dev"><img src="https://img.shields.io/badge/Portfolio-dineshdi.dev-58a6ff?style=flat&logo=safari&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="www.linkedin.com/in/dinesh-sre"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-3fb950?style=flat"/>&nbsp;
   <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
