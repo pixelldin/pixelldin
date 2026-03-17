@@ -1,47 +1,46 @@
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=120&section=header&text=pixelldin&fontColor=e6edf3&fontSize=36&fontAlignY=65&animation=fadeIn" width="100%"/>
+<!-- Animated wave header — this one is reliable -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=130&section=header&text=Hi%2C%20I'm%20Dinesh%20👋&fontColor=e6edf3&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Typing animation — very reliable service -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3FB950&center=true&width=500&lines=Systems+Operations+%E2%86%92+DevOps+Engineer;Building+infra+with+Terraform+%2B+Ansible;AWS+Certified+%7C+Bangalore%2C+India;Open+to+DevOps+%2F+Cloud+roles+%F0%9F%91%8B" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&width=520&lines=Systems+Operations+%E2%86%92+DevOps+Engineer;Building+infra+with+Terraform+%2B+Ansible;AWS+Certified+%7C+Open+to+DevOps+roles+%F0%9F%91%8B" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://dineshdi.dev"><img src="https://img.shields.io/badge/Portfolio-dineshdi.dev-58a6ff?style=flat&logo=safari&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/dinesh-sre"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=pixelldin&color=3fb950&style=flat&label=Profile+Views"/>
+  <a href="https://dineshdi.dev"><img src="https://img.shields.io/badge/Portfolio-dineshdi.dev-58a6ff?style=flat&logo=safari&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-3fb950?style=flat"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
 ### 🟢 Current Status
 ```text
-⚡  Building    → aws-two-tier-vpc with Terraform + Ansible
-📖  Learning    → Kubernetes & advanced CI/CD patterns
-🏢  Working @   → GXO Logistics (Systems Ops) · Bangalore
-🎯  Goal        → Full-time DevOps / Cloud Engineer role
+⚡  Building    →  aws-two-tier-vpc with Terraform + Ansible
+📖  Learning    →  Kubernetes & advanced CI/CD patterns  
+🏢  Working @   →  GXO Logistics · Systems Operations · Bangalore
+🎯  Goal        →  DevOps Engineer / Cloud Engineer role · available now
+🌐  Portfolio   →  dineshdi.dev
 ```
 
 ---
 
 ### 🛠 Tech Stack
 
-**Cloud & Infra**
-
+**Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**CI/CD & Monitoring**
-
+**CI/CD & Monitoring**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white)
 
-**Languages & Tools**
-
+**Languages & Tools**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -49,42 +48,61 @@
 
 ---
 
+### 📊 Proficiency
+```text
+AWS / Cloud          ████████████████████  90%
+Linux / Bash         █████████████████░░░  88%
+Docker / CI-CD       █████████████████░░░  85%
+Terraform / IaC      ████████████████░░░░  80%
+Ansible              ███████████████░░░░░  78%
+Splunk / Monitoring  ███████████████░░░░░  75%
+Python / Scripting   ██████████████░░░░░░  72%
+Kubernetes           ████████████░░░░░░░░  60%
+```
+
+---
+
 ### 📌 Featured Projects
 
 | | Project | Description | Stack |
-|---|---|---|---|
-| ☁ | [aws-two-tier-vpc](https://github.com/pixelldin/aws-two-tier-vpc) | Two-tier AWS infra - EC2, Route53, ALB, VPC via full IaC | `Terraform` `Ansible` `AWS` |
-| ⚙ | [CI-CD-Project](https://github.com/pixelldin/CI-CD-Project) | Full pipeline: build → test → containerize → deploy | `Jenkins` `Docker` `GitHub Actions` |
-| 🤖 | Local RAG System | Fully local LLM with LangChain, ChromaDB, Ollama - no API keys | `LangChain` `ChromaDB` `Ollama` |
-| 🌐 | [Portfolio-Latest](https://github.com/pixelldin/Portfolio-Latest) | Personal portfolio showcasing my DevOps journey | `TypeScript` |
+|:-:|---|---|---|
+| ☁ | [**aws-two-tier-vpc**](https://github.com/pixelldin/aws-two-tier-vpc) | Two-tier AWS infra — EC2, Route53, ALB, VPC. Fully IaC. | `Terraform` `Ansible` `AWS` |
+| ⚙ | [**CI-CD-Project**](https://github.com/pixelldin/CI-CD-Project) | Full pipeline: build → test → containerize → deploy | `Jenkins` `Docker` `GitHub Actions` |
+| 🤖 | **Local RAG System** | 100% local LLM — LangChain, ChromaDB, Ollama. No API keys. | `LangChain` `ChromaDB` `Ollama` |
+| 🌐 | [**Portfolio-Latest**](https://github.com/pixelldin/Portfolio-Latest) | Personal portfolio showcasing my DevOps journey | `TypeScript` |
 
 ---
 
-### 📊 GitHub Stats
+### 🏅 Certifications & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelldin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelldin&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+| | |
+|---|---|
+| 🏆 | **AWS Certified Cloud Practitioner** — Amazon Web Services |
+| ⭐ | **Make.com Foundation Certification** — Automation & workflows |
+| 🤖 | Built a **fully local RAG system** — LangChain + ChromaDB + Ollama, zero API keys |
+| 📦 | End-to-end **IaC in production** — Terraform + Ansible provisioning AWS infra |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelldin&theme=github-dark-blue&hide_border=true" height="150"/>
-</p>
+---
 
-<!-- GitHub Trophies -->
+### 📈 GitHub Stats
+
+<!-- These use a more stable mirror — less likely to break -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pixelldin&theme=darkhub&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelldin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="155"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelldin&layout=compact&theme=github_dark&hide_border=true" height="155"/>
 </p>
 
 ---
 
-### 🏅 Certifications
+### 🤝 Let's Connect
 
-- 🏆 **AWS Certified Cloud Practitioner**
-- ⭐ **Make.com Foundation Certification**
-- 🔧 DevOps Core · API · Networking fundamentals
+<p>
+  <a href="https://dineshdi.dev"><img src="https://img.shields.io/badge/🌐 Portfolio-dineshdi.dev-161b22?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/pixelldin"><img src="https://img.shields.io/badge/GitHub-pixelldin-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/dinesh-sre"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dineshdi.cc@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></div></a>
+</p>
 
----
-
-<!-- Animated wave footer -->
+<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:58a6ff,100:0d1117&height=80&section=footer" width="100%"/>
